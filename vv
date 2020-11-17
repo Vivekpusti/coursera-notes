@@ -1,0 +1,9 @@
+import java.util.*;
+class viv
+{
+public static void min()
+{
+Scannner in=new Scanner (System.in);
+int n,i,d,f,g;
+System.out.println("Enter a numbber");
+n=in.nextInt();
